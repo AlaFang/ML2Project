@@ -7,7 +7,6 @@ Xinyue Fang - 446197
 Ting Wei - 455848
 
 
-
 # Volatility Forecasting with Boosting and Neural Networks
 
 ## Overview
