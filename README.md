@@ -29,7 +29,7 @@ Models are evaluated with **MAE** and **RMSE** on a common overlapping test peri
 In our experiment, **XGBoost and Gradient Boosting achieved the lowest RMSE**, while RNN had slightly lower MAE.
 
 ## Repository Structure
-- `notebooks/` : main analysis notebooks (EDA, feature engineering, training, evaluation)
+- `ML2_XYF_TW.ipynb/` : main analysis (EDA, feature engineering, training, evaluation)
 - `data/` : raw data (download from kaggle https://www.kaggle.com/datasets/isaaclopgu/citigroup-inc-stock-data-daily-updated)
 - `model/` : saved models
 
