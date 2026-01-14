@@ -34,6 +34,3 @@ In our experiment, **XGBoost and Gradient Boosting achieved the lowest RMSE**, w
 - `data/` : raw data (download from kaggle https://www.kaggle.com/datasets/isaaclopgu/citigroup-inc-stock-data-daily-updated)
 - `model/` : saved models
 
-
-```bash
-pip install -r requirements.txt
